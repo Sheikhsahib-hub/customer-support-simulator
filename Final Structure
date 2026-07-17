@@ -1,0 +1,10 @@
+customer-support-simulator/
+│
+├── README.md
+│
+└── Scenarios/
+    ├── Scenario001 - Password Reset.md
+    ├── Scenario002 - Payment Failed.md
+    ├── Scenario003 - Refund Request.md
+    ├── Scenario004 - Angry Customer.md
+    └── Scenario005 - Shipping Delay.md
